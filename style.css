@@ -109,13 +109,16 @@ body {
 
 
 .images{
-	width: 10%;
+	width: 14%;
+	height: 36%;
 	margin: 1%;
-	border-radius: 5px;
-	display: flex;
+	border-radius: 3px;
 }
 
-
+.post{
+	display: flex;
+	text-align: left;
+}
 
 h1{
 	font-size: 150%;
@@ -130,6 +133,7 @@ h2{
 p{
 	font-size: 120%;
 	color: #4F4F4F;
+	margin-top: 5px;
 }
 
 
