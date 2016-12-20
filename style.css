@@ -94,24 +94,13 @@ body {
 	
 }
 
-.imagesidebar{
-	width: 24%;
-	height: 24%;
-	margin-right: 10px;
-	margin-left: 10px;
-	margin-bottom: 10px;
-	margin-top: 0px;
-	border-radius: 5px;
-	float: right;
-	clear: both;
-}
-
 
 
 .images{
 	width: 14%;
-	height: 36%;
+	height: auto;
 	margin: 1%;
+	float: left;
 	border-radius: 3px;
 }
 
@@ -206,6 +195,9 @@ p{
 
 	}
 
+	.images{
+		height: auto;
+	}
 	
 	.main{
 		overflow: hidden;
