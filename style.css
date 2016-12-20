@@ -1,6 +1,4 @@
 
-
-
 body {
 	width: 100%;
 	background-color: #ddd;
@@ -66,7 +64,6 @@ body {
 	background-color: #fff;
 	padding: 20px;
 	width: 67%;
-	/*margin-right: 29%;*/
 	margin-left: 1%;
 	margin-bottom: 1%;
 	margin-top: 1%;
@@ -105,8 +102,7 @@ body {
 }
 
 .post{
-	display: flex;
-	text-align: left;
+	border-bottom: 1px solid #ddd;
 }
 
 h1{
